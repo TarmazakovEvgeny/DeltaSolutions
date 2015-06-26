@@ -12,7 +12,7 @@
             <table>
                 <tr>
                     <td>Student ID</td>
-                    <td><input type="text" name="employeeId" value="${employee.studentId}" /></td>
+                    <td><input type="text" name="studentId" value="${employee.studentId}" /></td>
                 </tr>
                 <tr>
                     <td>First Name</td>
@@ -24,7 +24,7 @@
                 </tr>
                 <tr>
                     <td>Year Level</td>
-                    <td><input type="text" name="position" value="${employee.position}" /></td>
+                    <td><input type="text" name="yearLevel" value="${employee.position}" /></td>
                 </tr>
                 <tr>
                     <td colspan="2">

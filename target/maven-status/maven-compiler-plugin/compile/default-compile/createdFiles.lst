@@ -1,0 +1,4 @@
+ru\tarmazakov\servlet\SimpleServlet.class
+ru\tarmazakov\dao\EmployeeDAOLocal.class
+ru\tarmazakov\dao\EmployeeDAO.class
+ru\tarmazakov\entity\Employee.class
